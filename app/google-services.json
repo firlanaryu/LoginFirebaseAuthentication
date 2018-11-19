@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "546518144321",
+    "firebase_url": "https://belajarfirlana.firebaseio.com",
+    "project_id": "belajarfirlana",
+    "storage_bucket": "belajarfirlana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546518144321:android:405bc55224306483",
+        "android_client_info": {
+          "package_name": "com.creaginetech.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546518144321-m0f105qjnoa58ipfni5uirhmee33gm8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creaginetech.firebase",
+            "certificate_hash": "5b42616c15d6bd25ee215c741eb5def239c5837a"
+          }
+        },
+        {
+          "client_id": "546518144321-ntgi5jik77md8ga551h1bp78c0du481v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg1YdO9eKrDVFCA4jZamI3QifdyrL96Eg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546518144321-ntgi5jik77md8ga551h1bp78c0du481v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
